@@ -4,38 +4,24 @@
 
 <p align="left">Hi, my name is Wandipa Marema, and I’m an aspiring programmer from South Africa with a Bachelor of Computer and Information Sciences in Game Design and Development. My academic journey has given me a solid foundation in programming, game mechanics, and creative design, fueling my passion for building engaging and innovative experiences through technology. I’ve spent time honing my skills in tools like Unity and Unreal Engine, alongside programming languages such as C# and C++. My dream is to combine my technical expertise with my creativity to craft games and applications that not only entertain but also inspire and connect people. I am constantly driven by a love for learning and a desire to push boundaries, as I strive to leave a mark on the ever-evolving world of technology and game development.</p>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1neWrld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1neWrld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=1neWrld&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1neWrld&theme=prussian&hide_border=false" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1neWrld&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
 
-###
 
-<p align="left"># 💻 Tech Stack:</p>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-###
 
-<p align="left">#📱Socials:</p>
+## 🌐 Socials:
 
 ###
 
@@ -64,9 +50,19 @@
 
 <br clear="both">
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+  
+  ## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=1neWrld&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+  ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+</div>
 
