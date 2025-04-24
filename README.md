@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/hdkRjTt.gif" alt="Welcome GIF" style="position: absolute; top: 0; right: 0; width: 150px;" />
 
 
-<p align="left">Hi, my name is Wandipa Marema, and I’m an aspiring programmer from South Africa with a Bachelor of Computer and Information Sciences in Game Design and Development. My academic journey has given me a solid foundation in programming, game mechanics, and creative design, fueling my passion for building engaging and innovative experiences through technology. I’ve spent time honing my skills in tools like Unity, Android Studio and Unreal Engine, alongside programming languages such as C#, Kotlin and C++. My dream is to combine my technical expertise with my creativity to craft games and applications that not only entertain but also inspire and connect people. I am constantly driven by a love for learning and a desire to push boundaries, as I strive to leave a mark on the ever-evolving world of technology and game development.</p>
+<p align="left">Hi, my name is Wandipa Marema, I'm a Versatile and driven developer with a strong foundation in object-oriented programming, game development, and software engineering principles. Experienced in building interactive applications, solving technical challenges, and collaborating in cross-functional teams. Passionate about crafting efficient, user-focused solutions—whether through immersive gameplay mechanics or scalable software systems. Eager to contribute to innovative projects across both game development and general software engineering domains..</p>
 
 <div align="center">
 
